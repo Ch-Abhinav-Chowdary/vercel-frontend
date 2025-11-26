@@ -2,7 +2,7 @@ import axios from 'axios';
 
 // Create axios instance with base URL
 const api = axios.create({
-  baseURL: 'https://vercel-backend-hzpo.onrender.com/api',
+  baseURL: 'https://vercel-backend-ar8m.onrender.com/api',
   headers: {
     'Content-Type': 'application/json'
   }
